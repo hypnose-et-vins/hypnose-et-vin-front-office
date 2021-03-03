@@ -23,12 +23,8 @@ const Reservation = () => {
   return (
     <div className="reservation">
       <h1> {t('Reservation.title')}</h1>
-      <p>
-        Consectetur culpa duis labore dolore fugiat nostrud excepteur amet ad
-        sunt ex nostrud. Nulla commodo elit do proident ea minim voluptate
-        deserunt elit proident anim dolor. Ullamco quis exercitation fugiat aute
-        cillum reprehenderit aute excepteur nostrud cillum minim eu minim eu.
-      </p>
+      <p>________________________</p>
+      <p>{t('Reservation.text')}</p>
 
       <Button type="button" className={useStyles().btn}>
         <Link to="/events" Continuer>

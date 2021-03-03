@@ -46,6 +46,8 @@ const MentionLegale = () => {
         <p>{t('Mentions.p_11')}</p>
         <h3>{t('Mentions.h3_12')}</h3>
         <p>{t('Mentions.p_12')}</p>
+        <h3>{t('Mentions.h3_13')}</h3>
+        <p>{t('Mentions.p_13')}</p>
       </div>
     </div>
   );
