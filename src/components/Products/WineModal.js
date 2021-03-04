@@ -106,7 +106,6 @@ export default function WineModal(props) {
             <div className={classes.modalBody}>
               <p id="transition-modal-description">
                 {t('WinesModals.p1')} : {vigneron} <br />
-                {t('WinesModals.p2')} : {cepage} <br />
                 {sommelier && `Sommelier : ${sommelier} `}
                 <br />
                 {t('WinesModals.p4')} : {cepage} <br />
@@ -120,6 +119,7 @@ export default function WineModal(props) {
                 {t('WinesModals.p6')} : {price} € <br />
               </p>
               <img
+                className="modal-image"
                 src={`${process.env.REACT_APP_API_BASE_URL}/${image}`}
                 alt={producteur}
               />

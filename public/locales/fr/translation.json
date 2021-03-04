@@ -1,5 +1,10 @@
 {
   "Accueil": {
+    "banner1": "Laissez-vous transporter par vos sens afin de découvrir l’intimité des vins et alcools proposés.",
+    "banner2": "L'hypnose vous ouvre une nouvelle perspective sensorielle sur la dégustation et vous permet d’apprendre à regarder le vin sous un autre angle et à accepter son invitation au voyage.",
+    "banner3": "Dans un premier temps, une immersion dans le domaine de l’œnologie, avec les bases de la dégustation, est nécessaire afin d’harmoniser les connaissances de chacun.",
+    "banner4": "Ensuite, vous serez guidé dans l’expérimentation et l’apprentissage de l’autohypnose afin de vous permettre d’être dans un état de détente et de conscience propice à cette dégustation exceptionnelle.",
+    "banner5": "Après une introduction du plan de vigne jusqu’à la vinification, vous voyagerez dans les particularités, voluptés et douceurs du vin.",
     "titre": "Bienvenue sur Hypnose & Vins",
     "reviews": "Ils ont tenté l'expérience",
     "partenaires": "Nos partenaires",
@@ -57,8 +62,8 @@
     "helmet": "Qui suis je?",
     "h1": "A Propos",
     "h2": "Qui suis je?",
-    "content1": "Originaire de Lyon, dans un premier temps je suis des études de médecine, puis de biologie moléculaire, ayant à cœur de percer les mystères cellulaires de l’être humain.Après des soucis de santé qui m’obligent à reconsidérer mes choix de carrière, j’effectue des études de droit et de management des ressources humaines. J’occupe alors divers métiers aux seins de PME et de Grands Comptes. Cependant, je réalise rapidement que ce métier me met en conflit avec certaines de mes valeurs. En recherche d’une voie plus authentique et plus en accord avec mon identité, je me tourne naturellement vers les médecines non conventionnelles, la psychologie et l’hypnose ericksonienne. Rêveuse lucide et hypersensible depuis l’enfance, j’ai longtemps cherché des réponses dans les livres afin de canaliser ma sensibilité et mon empathie. En revanche, ce n’est qu’en rencontrant l’hypnose que j’ai pu mettre des mots sur mon état de conscience modifié nocturne. Et puis il y avait aussi mes mains, ces mains qui soignent lorsque je les appose sur une zone sensible du corps de l’autre.",
-    "content2": "Prenant conscience du sens de mon existence, je me forme alors à diverses médecines douces corporelles : magnétisme, Reiki et Tui Na, par exemple.Mais également en psychologie sociale, en psychopathologie, au niveau praticien en hypnose éricksonienne avec Kévin FINEL, en PNL (Programmation Neuro – Linguistique) et en RITMO® (combinaison de l’hypnose et de l’EMDR) avec Lili RUGGIERI. Ma curiosité de l’être humain me pousse à me former en continu afin de toujours mieux appréhender et comprendre l’autre pour mieux l’accompagner dans sa quête de sens, de bonheur, de mieux-être. Le tout dans une volonté constante d’amélioration et d’évolution de mon approche. J’adhère également au Syndicat Des Métiers de l’Hypnose dans le but de garantir à mes clients un cadre déontologique, éthique et professionnel sûr. Ayant été chahutée par la vie, d’autre m’ont accompagnée afin que je trouve ma voie, c’est à mon tour de vous éclairer le chemin pendant quelques temps afin que vous trouviez votre propre lumière.",
+    "content1": "Hypnologue de formation, mon arrière-grand père a fondé un domaine viticole familial à Suzette.",
+    "content2": "Mes deux passions du vin et de l’hypnose sont donc conjuguées afin de faire profiter tout un chacun d’une expérience inoubliable de dégustation.",
     "h3": "Rejoignez-moi !"
   },
   "Contact": {
@@ -121,21 +126,23 @@
     "p_4_3": "APE : 9609Z",
     "p_4_4": "TVA non applicable, art. 293 B du CGI.",
     "h3_5": "Données personnelles",
-    "p_5": "Conformément à l'article 34 de la Loi du 6 janvier 1978, vous disposez d'un droit individuel d'accès de modification, de rectification et de suppression des informations personnelles vous concernant, droit qui pourra être exercé en adressant un e-mail àmorgane.pardo@yahoo.com",
+    "p_5": "Conformément à l'article 34 de la Loi du 6 janvier 1978, vous disposez d'un droit individuel d'accès de modification, de rectification et de suppression des informations personnelles vous concernant, droit qui pourra être exercé en adressant un e-mail à morgane.pardo@yahoo.com",
     "h3_6": "Edition/publication",
-    "p_6": "Le site http://morgane-pardo-hypnose.com est la propriété de Madame Morgane PARDO - 1-3 rue de Milan – 69100 VILLEURBANNE",
+    "p_6": "Le site http://www.hypnose-et-vin.com est la propriété de Madame Morgane PARDO - 1-3 rue de Milan – 69100 VILLEURBANNE",
     "h3_7": "Directrice de la publication",
     "p_7": "Madame Morgane PARDO",
     "h3_8": "Hébergement",
-    "p_8": "Hetzner Online GmbH - Industriestr. 25, 91710 Gunzenhausen - Allemagne",
+    "p_8": "Ce site est hébergé par la société OVH : http://www.ovh.com. Le nom de domaine est hébergé par la société OVH : http://www.ovh.com. OVH SAS au capital de 10 069 020 €. RCS Lille Métropole 424 761 419 00045. Siège social : 2 rue Kellermann - 59100 Roubaix - France.",
     "h3_9": "Logiciel",
-    "p_9": "Ce site est réalisé et propulsé par HTTP5000.",
+    "p_9": "Ce site a été réalisé par la Wild Code School.",
     "h3_10": "Données personnelles",
     "p_10": "Aucune donnée personnelle n'est recueillie sur ce site.",
     "h3_11": "Droits d'auteur- Copyright",
     "p_11": "Les éléments figurant sur ce site relèvent de la législation française et internationale et sont protégés par le droit de la propriété intellectuelle. Aucune représentation ou reproduction intégrale ou partielle ou aucune utilisation ne peut être faite sans avoir obtenu l'accord préalable de leurs propriétaires respectifs.",
     "h3_12": "Liens hypertextes",
-    "p_12": "Les liens hypertextes proposés sur ce site en direction d'autres ressources existantes sur internet n'engagent pas la responsabilité du ou des propriétaires de ce site. Pour toute insertion de lien vers ce site ou échange de lien, nous contacter par courrier à l'adresse ci-dessus. Crédits photos : Pexels.com / Unsplash.com / Morgane Pardo"
+    "p_12": "Les liens hypertextes proposés sur ce site en direction d'autres ressources existantes sur internet n'engagent pas la responsabilité du ou des propriétaires de ce site. Pour toute insertion de lien vers ce site ou échange de lien, nous contacter par courrier à l'adresse ci-dessus.",
+    "h3_13": "Tarifs",
+    "p_13": "Sur devis, en fonction du nombre de personnes pour les groupes. 60€ TTC par personne pour une cession de 2h et 3 vins dégustés."
   },
   "FAQ": {
     "h1": "Foire aux questions"
@@ -176,7 +183,8 @@
   },
   "Reservation": {
     "title": "Prêt à réserver ?",
-    "button": " Voir nos événements"
+    "button": "Voir nos événements",
+    "text": "Vous trouverez toutes les informations sur nos évènements ici."
   },
   "Reviewhome": {
     "alert": "Pas d'avis disponible"
@@ -192,7 +200,8 @@
     "alert": "Pas d'actualité disponible"
   },
   "Animator": {
-    "title": "Nos Animateurs"
+    "title": "Nos Animateurs",
+    "text": "Qui sont nos animateurs et pourquoi ont-ils rejoint l’aventure ?"
   },
   "Profile": {
     "h1": "Bienvenue",

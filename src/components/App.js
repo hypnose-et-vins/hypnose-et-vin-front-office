@@ -41,7 +41,7 @@ const theme = createMuiTheme({
 function App() {
   return (
     <ThemeProvider theme={theme}>
-      <ToastProvider placement="top-right">
+      <ToastProvider placement="bottom-center">
         <LoginProvider>
           <BasketProvider>
             <Router>

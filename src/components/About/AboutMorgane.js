@@ -6,6 +6,7 @@ import {
   AiFillFacebook,
   AiOutlineInstagram,
 } from 'react-icons/ai';
+import { CgProfile } from 'react-icons/cg';
 import './AboutMorgane.scss';
 
 export default function AboutMorgane() {
@@ -26,45 +27,10 @@ export default function AboutMorgane() {
             width="290"
             height="290"
           />
-          <h2 className="whoTitle">{t('About.h2')}</h2>
           <div className="paragraphs">
             <div className="first-part">
-              <p className="first-paragraph">
-                {t('About.content1')}
-                <br />
-                <br />
-                <br />
-                <img
-                  className="first-picture"
-                  alt=""
-                  src="https://lirp-cdn.multiscreensite.com/md/unsplash/dms3rep/multi/opt/photo-1506102383123-c8ef1e872756-1920w.jpg"
-                  width="100%"
-                  height="100%"
-                />
-              </p>
-            </div>
-            <div className="second-part">
-              <p className="second-paragraph">
-                <br />
-                <img
-                  className="second-picture"
-                  alt=""
-                  src="https://lirp-cdn.multiscreensite.com/82a74c83/dms3rep/multi/opt/morgane-pardo-hypnose2-1920w.jpg"
-                  width="100%"
-                  height="100%"
-                />
-                <br />
-                {t('About.content2')}
-                <br />
-                <br />
-                <img
-                  className="third-picture"
-                  alt=""
-                  src="https://lirp-cdn.multiscreensite.com/82a74c83/dms3rep/multi/opt/morgane-pardo-hypnose2-1920w.jpg"
-                  width="100%"
-                  height="100%"
-                />
-              </p>
+              <p className="first-paragraph">{t('About.content1')}</p>
+              <p className="first-paragraph">{t('About.content2')}</p>
             </div>
           </div>
         </div>
@@ -76,10 +42,17 @@ export default function AboutMorgane() {
             <div>
               <li className="list">
                 <a
-                  href="mailto:morgane.pardo@yahoo.com"
+                  href="https://www.morgane-pardo-hypnose.com/"
                   target="_blank"
                   rel="noreferrer"
                 >
+                  <CgProfile size={40} color="#8c0226" />
+                </a>
+              </li>
+            </div>
+            <div>
+              <li className="list">
+                <a href="/contact">
                   <AiOutlineMail size={40} color="#8c0226" />
                 </a>
               </li>

@@ -42,6 +42,7 @@
         justify-content: center;
         align-items: center;
         img {
+          clip-path: circle();
           margin-right: 15px;
           width: 150px;
         }
@@ -91,7 +92,7 @@
     .cards-container
     .image-animator
     img {
-    width: 100%;
+    width: 50%;
   }
   .container-all-cards-animators
     .page-container
