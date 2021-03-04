@@ -8,27 +8,11 @@ const Banner = () => {
     <div className="banner">
       <h1>{t('Accueil.titre')}</h1>
       <p>________________________</p>
-      <p>
-        Consectetur culpa duis labore dolore fugiat nostrud excepteur amet ad
-        sunt ex nostrud. Nulla commodo elit do proident ea minim voluptate
-        deserunt elit proident anim dolor. Ullamco quis exercitation fugiat aute
-        cillum reprehenderit aute excepteur nostrud cillum minim eu minim eu.
-        Consectetur culpa duis labore dolore fugiat nostrud excepteur amet ad
-        sunt ex nostrud. Nulla commodo elit do proident ea minim voluptate
-        deserunt elit proident anim dolor.{' '}
-        <span className="Welcome-message-home-page">
-          Ullamco quis exercitation fugiat aute cillum reprehenderit aute
-          excepteur nostrud cillum minim eu minim eu. Consectetur culpa duis
-          labore dolore fugiat nostrud excepteur amet ad sunt ex nostrud. Nulla
-          commodo elit do proident ea minim voluptate deserunt elit proident
-          anim dolor. Ullamco quis exercitation fugiat aute cillum reprehenderit
-          aute excepteur nostrud cillum minim eu minim eu. Consectetur culpa
-          duis labore dolore fugiat nostrud excepteur amet ad sunt ex nostrud.
-          Nulla commodo elit do proident ea minim voluptate deserunt elit
-          proident anim dolor. Ullamco quis exercitation fugiat aute cillum
-          reprehenderit aute excepteur nostrud cillum minim eu minim eu.
-        </span>
-      </p>
+      <p>{t('Accueil.banner1')}</p>
+      <p>{t('Accueil.banner2')}</p>
+      <p>{t('Accueil.banner3')}</p>
+      <p>{t('Accueil.banner4')}</p>
+      <p>{t('Accueil.banner5')}</p>
     </div>
   );
 };

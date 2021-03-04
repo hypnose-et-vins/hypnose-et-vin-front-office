@@ -39,20 +39,12 @@
     border-radius: 150px;
   }
   p {
-    text-align: justify;
+    text-align: center;
     margin-bottom: 30px;
 
     font-size: 16px;
     line-height: 25px;
   }
-}
-
-.second-picture {
-  display: none;
-}
-
-.third-picture {
-  display: flex;
 }
 
 .socialMedia {
@@ -79,18 +71,14 @@
     .paragraphs {
       display: flex;
       flex-direction: row;
+
       align-items: center;
       p {
         width: 95%;
       }
     }
-    .second-picture {
-      display: flex;
-    }
 
-    .third-picture {
-      display: none;
-    }
+
     .socialMedia {
       display: block;
       margin-left: 70px;
