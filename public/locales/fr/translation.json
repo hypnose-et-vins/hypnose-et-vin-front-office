@@ -1,5 +1,10 @@
 {
   "Accueil": {
+    "banner1": "Laissez-vous transporter par vos sens afin de découvrir l’intimité des vins et alcools proposés.",
+    "banner2": "L'hypnose vous ouvre une nouvelle perspective sensorielle sur la dégustation et vous permet d’apprendre à regarder le vin sous un autre angle et à accepter son invitation au voyage.",
+    "banner3": "Dans un premier temps, une immersion dans le domaine de l’œnologie, avec les bases de la dégustation, est nécessaire afin d’harmoniser les connaissances de chacun.",
+    "banner4": "Ensuite, vous serez guidé dans l’expérimentation et l’apprentissage de l’autohypnose afin de vous permettre d’être dans un état de détente et de conscience propice à cette dégustation exceptionnelle.",
+    "banner5": "Après une introduction du plan de vigne jusqu’à la vinification, vous voyagerez dans les particularités, voluptés et douceurs du vin.",
     "titre": "Bienvenue sur Hypnose & Vins",
     "reviews": "Ils ont tenté l'expérience",
     "partenaires": "Nos partenaires",
@@ -137,7 +142,7 @@
     "h3_12": "Liens hypertextes",
     "p_12": "Les liens hypertextes proposés sur ce site en direction d'autres ressources existantes sur internet n'engagent pas la responsabilité du ou des propriétaires de ce site. Pour toute insertion de lien vers ce site ou échange de lien, nous contacter par courrier à l'adresse ci-dessus.",
     "h3_13": "Tarifs",
-    "p_13": "Tarif indicatif : 60€ TTC/personne sur la base de 2h et 3 vins dégustés. Pour les groupes, sur devis en fonction du nombre de personnes"
+    "p_13": "Sur devis, en fonction du nombre de personnes pour les groupes. 60€ TTC par personne pour une cession de 2h et 3 vins dégustés."
   },
   "FAQ": {
     "h1": "Foire aux questions"
@@ -179,7 +184,7 @@
   "Reservation": {
     "title": "Prêt à réserver ?",
     "button": "Voir nos événements",
-    "text": "Vous trouverez toutes les informations sur nos évènements en cliquant ci-dessous."
+    "text": "Vous trouverez toutes les informations sur nos évènements ici."
   },
   "Reviewhome": {
     "alert": "Pas d'avis disponible"

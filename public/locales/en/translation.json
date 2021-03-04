@@ -1,5 +1,10 @@
 {
   "Accueil": {
+    "banner1": "Let you carried away by your senses to discover the intimacy to wines and alcohols suggested for this experience.",
+    "banner2": "Hypnosis offer you a new sensory perspective through wine tasting and allow you to see the wine on a different angle and accept this journey invitation.",
+    "banner3": "Firstly, an immersion in oenology domain, with degustation basis, is needed for standardized everyone knowledge’s.",
+    "banner4": "Then, you will be guided in the self-hypnosis experiment and learning in aim of let you enterin a relaxation state and an awareness condition that enhance this extraordinary degustation.",
+    "banner5": "After vineyard to wine-making process introduction, you will travel though the wine defining feature, delight and softness.",
     "titre": "Welcome to Hypnose & Vins",
     "reviews": "See what others are saying!",
     "partenaires": "Our Partners",
@@ -57,8 +62,8 @@
     "helmet": "Who Am I?",
     "h1": "About",
     "h2": "Who Am I?",
-    "content1": "Originally from Lyon, I first studied medicine, then molecular biology, keen to unravel the cellular mysteries of human beings. After health concerns that forced me to reconsider my career choices, I studied law and human resources management. I then worked in various professions within SMEs and Key Accounts. However, I quickly realize that this job puts me in conflict with some of my values. In search of a more authentic path and more in keeping with my identity, I naturally turn to alternative medicine, psychology and Ericksonian hypnosis. A lucid and hypersensitive dreamer since childhood, I have long searched for answers in books in order to channel my sensitivity and empathy. However, it was only by encountering hypnosis that I was able to put words into my altered nocturnal state of consciousness. And then there were also my hands, those hands that heal when I put them on a sensitive area of ​​the other's body.",
-    "content2": "Originally from Lyon, I first studied medicine, then molecular biology, keen to unravel the cellular mysteries of human beings. After health concerns that forced me to reconsider my career choices, I studied law and human resources management. I then worked in various professions within SMEs and Key Accounts. However, I quickly realize that this job puts me in conflict with some of my values. In search of a more authentic path and more in keeping with my identity, I naturally turn to alternative medicine, psychology and Ericksonian hypnosis. A lucid and hypersensitive dreamer since childhood, I have long searched for answers in books in order to channel my sensitivity and empathy. However, it was only by encountering hypnosis that I was able to put words into my altered nocturnal state of consciousness. And then there were also my hands, those hands that heal when I put them on a sensitive area of ​​the other's body.",
+    "content1": "Hypnotherapist and wine passionate, my great grandfather founded a family wine estate in Suzette.",
+    "content2": "My two passions for wine and hypnosis are therefore combined to provide everyone with an unforgettable tasting experience.",
     "h3": "Contact me!"
   },
   "Contact": {
@@ -138,7 +143,7 @@
     "h3_12": "Hypertext links",
     "p_12": "The hypertext links offered on this site to other existing resources on the internet do not engage the responsibility of the owner (s) of this site. For any link insertion or link exchange, contact us by mail at the above address.",
     "h3_13": "Rates",
-    "p_13": "Indicative rate : 60€ incl. VAT per person on the basis of 2 hours and 3 wines tasting. For groups, quote depending of people number"
+    "p_13": "On estimate, depending on the number of participants for each groups. 60€ (including all taxes) per person for a 2 hours degustation and 3 different wines."
   },
   "FAQ": {
     "h1": "Frequently Asked Questions"
@@ -180,7 +185,7 @@
   "Reservation": {
     "title": "Ready to book ?",
     "button": "See all events",
-    "text": "Discover all informations about our events by clicking below."
+    "text": "You will find all the information about our events here."
   },
   "Reviewhome": {
     "alert": "No reviews available"
@@ -197,7 +202,7 @@
   },
   "Animator": {
     "title": "Our facilitators",
-    "text": "Who are our facilitators and why they joined the adventure ?"
+    "text": "Who are our animators and why did they join the adventure?"
   },
   "Profile": {
     "h1": "Welcome",
