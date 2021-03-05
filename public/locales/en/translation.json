@@ -1,10 +1,10 @@
 {
   "Accueil": {
-    "banner1": "Let you carried away by your senses to discover the intimacy to wines and alcohols suggested for this experience.",
-    "banner2": "Hypnosis offers you a new sensory perspective through wine tasting and allows you to see the wine on a different angle and accept this journey invitation.",
-    "banner3": "Firstly, an immersion in oenology domain, with degustation basis, is needed for standardized everyone knowledge’s.",
-    "banner4": "Then, you will be guided in the self-hypnosis experiment and learning in aim of let you enter in a relaxation state and an awareness condition that enhances this extraordinary degustation.",
-    "banner5": "After vineyard to wine-making process introduction, you will travel though the wine defining feature, delight and softness.",
+    "banner1": "Get carried away by your senses to discover the intimacy of wines and alcohols suggested for this experience.",
+    "banner2": "Hypnosis offers you a new sensory perspective through wine tasting by taking you to a surprising journey allowing you to see wine from a different angle.",
+    "banner3": "Firstly, an immersion into the art of oenology with an explanation of the basic degustation techniques will be provided.",
+    "banner4": "Then, you will be guided through the learning and experimenting of self-hypnosis with the aim of letting you enter a relaxation state and an awareness condition that enhances this extraordinary degustation.",
+    "banner5": "After a \"from the vineyard to the wine-making process\" introduction, you will travel though the wine's delight and softness as well as its defining features.",
     "titre": "Welcome to Hypnose & Vins",
     "reviews": "See what others are saying!",
     "partenaires": "Our Partners",
@@ -44,7 +44,7 @@
   "Events": {
     "h1": "Upcoming events",
     "bouton1": "Details",
-    "bouton2": "upcoming events",
+    "bouton2": "Upcoming events",
     "helmet": "Events"
   },
   "Animators": {
@@ -62,8 +62,8 @@
     "helmet": "Who Am I?",
     "h1": "About",
     "h2": "Who Am I?",
-    "content1": "Hypnotherapist and wine passionate, my great grandfather founded a family wine estate in Suzette.",
-    "content2": "My two passions for wine and hypnosis are therefore combined to provide everyone with an unforgettable tasting experience.",
+    "content1": "Hypnotherapist and wine passionate, my great grandfather founded a family wine estate in Suzette (Vaucluse, France).",
+    "content2": "My two passions for wine and hypnosis are therefore combined to offer everyone with an unforgettable tasting experience.",
     "h3": "Contact me!"
   },
   "Contact": {
@@ -202,7 +202,7 @@
   },
   "Animator": {
     "title": "Our facilitators",
-    "text": "Who are our animators and why did they join the adventure?"
+    "text": "Who are our facilitators and why did they join the adventure?"
   },
   "Profile": {
     "h1": "Welcome",
